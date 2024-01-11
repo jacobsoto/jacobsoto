@@ -9,3 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jacobsoto/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jacobsoto/azure-network-protocols)
+<h2>🤳Connect with me: on Linkedin </h2>
+
+[<img align="left" alt="jacob | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/jacob-soto-304727293
