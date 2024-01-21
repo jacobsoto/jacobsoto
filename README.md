@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jacobsoto/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jacobsoto/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jacobsoto/configure-ad)
+  - [Install Active Directory with Azure](https://github.com/jacobsoto/install-AD)
     
 <h2>🤳Connect with me: on Linkedin </h2>
 
