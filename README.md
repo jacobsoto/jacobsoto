@@ -3,14 +3,19 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jacobsoto/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jacobsoto/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jacobsoto/ticket-lifecycle)
+  - <a href="https://github.com/jacobsoto/osticket-prereqs">osTicket: Prerequisites and Installation</a>
+  - <a href="https://github.com/jacobsoto/post-install-config">osTicket: Post-Installation Configuration</a>
+  - <a href="https://github.com/jacobsoto/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a>
+
 - <b>Microsoft Azure</b>
-  - [Install Active Directory with Azure](https://github.com/jacobsoto/install-Active-Directory)
-    
-<h2>🤳Connect with me: on Linkedin </h2>
+  - <a href="https://github.com/jacobsoto/install-Active-Directory">Install Active Directory with Azure</a>
 
-[<img align="left" alt="jacob | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- <b>🛡️ Windows Malware Remediation Lab</b>
+  - <a href="https://github.com/jacobsoto/windows-malware-remediation-lab">View Lab Project</a>
+  - End-to-end malware detection, removal, and system recovery using Safe Mode, Microsoft Defender, MSRT, and Kaspersky Rescue Disk
 
-[linkedin]: https://linkedin.com/in/jacob-soto-304727293
+<h2>🤳 Connect with me: on Linkedin</h2>
+
+<a href="https://linkedin.com/in/jacob-soto-304727293">
+  <img align="left" alt="Jacob | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
